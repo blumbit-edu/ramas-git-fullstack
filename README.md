@@ -16,3 +16,8 @@ o
 git add index.html README.md
 ```
 - seleccionar los archivos
+
+## 3. Asignar una descripción a los archivos agregados 
+```
+git commit -m "proyecto base"
+```
